@@ -1,0 +1,90 @@
+ body {
+  background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg);
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+#forecast {
+  color: white;
+}
+
+#clr-btn {
+  background-color: rgba(233, 103, 103, 0.942);
+}
+
+#city-input {
+  color: black;
+}
+
+#info-section {
+    padding-top: 15px;
+  }
+  
+#weather-data {
+    background-color: #90b8cfca;
+  }
+  
+  .current-city-data {
+    min-height: 300px;
+  }
+
+  #city-name {
+    color: white;
+    font-size: 37px;
+  }
+  
+  .table-box {
+    background-color:#90b8cfac;
+  }
+  
+  tr {
+    margin: 5px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  
+  .card {
+    background-color: #783c70c7;
+    margin: 3px;
+    min-height: 300px;
+  }
+
+  .card-content {
+    font-size: 13px;
+  }
+  
+  .headline-hero {
+    background: #783c70; 
+    background: -webkit-linear-gradient(
+      to right,
+      #783c70,
+      #b474ac
+    ); 
+    background: linear-gradient(
+      to right,
+      #783c70,
+      #b474abb1
+    ); 
+  }
+  
+  .title {
+    color: #fff;
+    font-size: 45px;
+  }
+  
+  #submit {
+    background-color: #90b8cfac;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  @media only screen and (max-width: 599px) {
+  
+    .column {
+      margin: 2px;
+      padding: 0 20px 0 20px;
+    }
+  
+    .card-content {
+      padding: 20px;
+    }
+  }
