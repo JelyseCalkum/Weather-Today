@@ -1,10 +1,11 @@
 # Weather-Today
 Weather Forecast Dashboard Application
 
-DESCRIPTION: 
-PROJECT SUMMARY: This weather application was built 
-Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-This project was built with the help of the Open Weather API, JavaScript and jQuery in order to create a dynamically updated HTML and CSS.
+PROJECT SUMMARY: A weather dashboard built from scratch that uses the Open Weather API through JavaScript and jQuery that opens in the browser and creates a dynamically updated HTML and CSS.
+You can visit the deployed webpage here: //insert deployed page url here//
+Or you can check out the project files in my GitHub repository here: //insert github url here//
+![Screenshot main page](https://user-images.githubusercontent.com/115381607/204701658-fdef5faa-65fe-47d5-8c62-f2094f8714b7.png)
+
 USAGE:
 
 USER STORY:
