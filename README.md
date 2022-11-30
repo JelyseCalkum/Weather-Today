@@ -4,9 +4,11 @@ Weather Forecast Dashboard Application
 PROJECT SUMMARY
 
 Weather Today is a weather dashboard built from scratch that uses the Open Weather API through JavaScript and jQuery that opens in the browser and creates a dynamically updated HTML and CSS.
+
 You can visit the deployed webpage here: https://jelysecalkum.github.io/Weather-Today/?
 
 Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/Weather-Today
+
 ![readme img 1](https://user-images.githubusercontent.com/115381607/204702421-5358da61-92f7-42f9-b4d9-e7bc85af9dc0.png)
 
 USAGE
