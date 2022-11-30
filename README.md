@@ -4,7 +4,7 @@ Weather Forecast Dashboard Application
 PROJECT SUMMARY: A weather dashboard built from scratch that uses the Open Weather API through JavaScript and jQuery that opens in the browser and creates a dynamically updated HTML and CSS.
 You can visit the deployed webpage here: //insert deployed page url here//
 Or you can check out the project files in my GitHub repository here: //insert github url here//
-![Screenshot main page](https://user-images.githubusercontent.com/115381607/204701658-fdef5faa-65fe-47d5-8c62-f2094f8714b7.png)
+![readme img 1](https://user-images.githubusercontent.com/115381607/204702421-5358da61-92f7-42f9-b4d9-e7bc85af9dc0.png)
 
 USAGE:
 
